@@ -44,9 +44,9 @@ body {
 }
 .content li:hover {
   color: rgb(0, 0, 0);
-  background-color: #9bcdf0;
+  background-color: #3075a770;
   text-decoration: none;
-  transition: all 0.5s ease;
+  transition: all 0.3s ease;
 }
 a {
   text-decoration: none;
